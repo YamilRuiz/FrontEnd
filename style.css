@@ -1,0 +1,32 @@
+body{
+	font-family: 'Lato', sans-serif;
+	}
+hr{
+	border-width: 4px;
+	border-color: #7d97ad;
+}
+.text-muted{
+	color:#7d97ad;
+	font-weight: 500;
+}
+.title-logo{
+	margin-top: 20px;
+	width: auto;
+	height: auto;
+}
+.text-bold{
+	font-weight: 600;
+}
+.title-super{
+	font-size: 60px;
+	font-weight: 300;
+}
+.company-logo{
+	width: auto;
+	height: auto;
+	padding-top: 20px;
+}
+.projects{
+	width: auto; 
+	height:auto;
+}
